@@ -26,5 +26,6 @@
   ], [
     a foaf:Person ;
     foaf:name "Verica" ;
-    foaf:mbox_sha1sum "6800d47ecf9f1f436437c80fc652fb6deadf16b0"
+    foaf:mbox_sha1sum "6800d47ecf9f1f436437c80fc652fb6deadf16b0" ;
+    rdfs:seeAlso <https://raw.githubusercontent.com/Verica100ilkova/lab5/main/foaf.ttl?fbclid=IwAR2viEooc3vyEJmvwz3ym4fjLsm7t4hmeC1CKQO67FCYsnS8GFVwRWCVLd0>
   ] .
